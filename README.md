@@ -28,6 +28,8 @@ The **Training Center Registry** is a Spring Boot-based application for managing
 - **MySQL** as the database
 - **Lombok** for boilerplate code reduction
 - **Postman** (recommended for testing the APIs)
+  - POST http://localhost:2999/api/v1/training-centers
+  - GET http://localhost:2999/api/v1/training-centers
 
 ---
 
@@ -36,4 +38,3 @@ The **Training Center Registry** is a Spring Boot-based application for managing
 1. Clone the repository:
    ```bash
    https://github.com/rajagopal-reddy/Backend_Traini8_RajaGopalReddy.git
-   cd training-center-registry
