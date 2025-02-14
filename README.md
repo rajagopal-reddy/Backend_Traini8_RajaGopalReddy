@@ -1,6 +1,6 @@
 # Training Center Registry
 
-The **Training Center Registry** is a Spring Boot-based application for managing training centers. It provides APIs for creating and retrieving training centers with proper validation, error handling, and exception management. The project uses a MySQL database for persistence.
+The **Training Center Registry** is a Spring Boot-based application for managing training centers. It provides APIs for creating and retrieving training centers with proper validation, error handling and exception management. The project uses a MySQL database for persistence.
 
 ---
 
@@ -35,5 +35,5 @@ The **Training Center Registry** is a Spring Boot-based application for managing
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/training-center-registry.git
+   https://github.com/rajagopal-reddy/Backend_Traini8_RajaGopalReddy.git
    cd training-center-registry
